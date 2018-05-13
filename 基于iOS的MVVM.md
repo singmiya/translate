@@ -50,7 +50,9 @@ MVC的另一个大问题是不利于程序员编程单元测试。因为，视�
 现在有一个新的概念...
 
 ## 模型-视图-视图模型（`Model-View-ViewModel`）
-![MVVM](/Users/csip/Documents/docs/notes/translate/datas/MVVM1.png)
+
+![MVVM](https://github.com/singmiya/translate/blob/master/datas/MVVM1.png)
+
 理论上，`MVC`能够很好的工作。然而，在现实中并非如此。现在，我们已经介绍过打破MVC经典使用的情况（MVC在实际使用中出现的问题），下面让我们看一种可选的架构模式：模型-视图-视图模型（`Model-View-ViewModel`）。
 
 `MVVM`由[微软提出](http://msdn.microsoft.com/en-us/library/hh848246.aspx)，但不要排斥它。`MVVM`和`MVC`很相似。它形式化了视图和控制器紧耦合的特性并且引入了一个新的组件。
