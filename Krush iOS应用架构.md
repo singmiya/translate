@@ -58,7 +58,7 @@
 ## 案例研究 3：用户信息视图
 `Krush`的用户信息是一个复杂的东西。不管是从设计的角度还是从编码的角度来看，正确的处理是很重要的。我们看到的设计中有三个`tab`：`Krushes`，`Influence`和`Network`。
 
-![](/Users/csip/Documents/docs/notes/translate/datas/Krush-Recording.gif)
+![](https://github.com/singmiya/translate/blob/master/datas/Krush-Recording.gif)
 
 不仅如此，这些`tab`需要进行模块化，因为对于一个品牌的用户页，我们可能会需要不同的`tabs`。这是一个很有趣的架构问题；如何以模块化的方式重用代码？
 
@@ -92,7 +92,7 @@
 ## 结论
 在Teehan+Lax，这个项目令我们兴奋异常。在整个项目期间，我们学到了很多并且还在开发期间获得了诸多乐趣。我想通过分享一些在项目期间的经验教训，开发者可以开发出属于他们自己的了不起的应用。请叫我雷锋！
 
-![](/Users/csip/Documents/docs/notes/translate/datas/leifeng.jpeg)
+![](https://github.com/singmiya/translate/blob/master/datas/leifeng.jpeg)
 
 
 
