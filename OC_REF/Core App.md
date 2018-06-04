@@ -6,7 +6,7 @@
 ## 话题
 ### 应用
 ---
-#### 管理应用生命周期
+#### [管理应用生命周期](https://github.com/singmiya/translate/blob/uikit_translate/OC_REF/%E7%AE%A1%E7%90%86%E5%BA%94%E7%94%A8%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md)
 理解应用委托如何管理应用高层次的行为。
 
 #### UIApplication
