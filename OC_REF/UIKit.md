@@ -17,7 +17,7 @@ UIKit框架为iOS或tvOS应用提供必须的基础组件。它提供了实现�
 
 ### 应用结构
 ---
-#### Core App
+#### [Core App](https://github.com/singmiya/translate/blob/master/OC_REF/Core%20App.md)
 管理应用的数据模型和其与系统的交互。
 
 #### 资源管理
@@ -99,8 +99,4 @@ UIItemProviderPresentationSizeProviding
 
 ### Reference
 UIKit Enumerations
-
-
-# 未完，待续。。。。
-
 
